@@ -1,2 +1,1 @@
-# raspberrypi-os
-Images for various OS' for Raspberry Pi3
+# assets for articles on mitchelllisle.com
